@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{b2385693-a58a-4ab1-a213-9f9958cb2ec2}">
+		<property name="assetPath">
+			<value>Âm thanh chiến thắng .mp3</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>24</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>3.552</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{dc73ae87-19ed-4738-a39d-6724aba06337}</destination>
+		</relationship>
+	</object>
+</objects>

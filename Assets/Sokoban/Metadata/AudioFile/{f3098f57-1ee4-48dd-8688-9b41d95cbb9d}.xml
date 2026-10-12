@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{f3098f57-1ee4-48dd-8688-9b41d95cbb9d}">
+		<property name="assetPath">
+			<value>ethereal-finity-release.mp3</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>240.048</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{dc73ae87-19ed-4738-a39d-6724aba06337}</destination>
+		</relationship>
+	</object>
+</objects>
